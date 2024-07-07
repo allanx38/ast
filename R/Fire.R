@@ -1,6 +1,8 @@
 # Data
 tlist <- readRDS("/home/allanx38/ast/Data/FTSE100CloseATR.rds")
 
+# test
+
 # Functions
 candleStick_plot <- function(pData){
 
